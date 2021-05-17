@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Eczar&display=swap");
+body {
+  /* background-color: #2ecc71; */
+  background: url("https://images.pexels.com/photos/723240/pexels-photo-723240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat;
+  text-align: center;
+  font-family: "Rajdhani", sans-serif;
+}
+h1 {
+  color: #b7950b;
+  font-size: 7vw;
+  font-family: "Eczar", serif;
+  text-align: center;
+}
+.navbar {
+  /* background-color: #333333; */
+  background-color: transparent;
+}
+
+a {
+  color: #f1f9f9;
+}
+
+a:hover {
+  color: #f0f0f0;
+}
+.card {
+  /* border: 2px solid red; */
+  padding: 10px;
+  border-radius: 50px 20px;
+  border-color: #2ecc71;
+  border-width: 2px;
+}
